@@ -1,7 +1,7 @@
 #Documentation
-#####DCM (DracOS Connection Manager) is a CLI (Command Line Interface) based program written in Python. This program help DracOS Linux's users to manage their connection ex: wifi connection
-***
-***
+#####DCM (DracOS Connection Manager) is a CLI (Command Line Interface) based program written in Python. This program help DracOS Linux's users to manage their connection ex: wifi connection.
+
+
 ##Release
 ####V1.0 Dec 4th, 2016
 
